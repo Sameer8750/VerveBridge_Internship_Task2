@@ -21,7 +21,6 @@ The dataset provided in the AVIVA R&A MI Excel Test Paper.xlsm and the Power BI 
 ## 🚀 Key Features :
 
 - Power BI Dashboard: The Aviva Report Analysis Dashboard.pbix provides a comprehensive visualization of the dataset, offering insights into policy sales, claims, financial performance, and risk assessment.
-- Python Integration: Delve into the Python code for data transformation, cleaning, and analysis of AVIVA's data.
 - Interactive Visuals: Access the interactive visuals in the Power BI dashboard for a dynamic exploration of the dataset.
 
 ## 📊 Dashboard Preview :
