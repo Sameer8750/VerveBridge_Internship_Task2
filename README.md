@@ -43,7 +43,14 @@ Analyze with Power BI:
 
 Open the Power BI report to explore the interactive dashboard.
 
+## 📬 Contact : 
 
+Reach out to me:
+
+- Sameer Shinde 
+- Email: sameershinde1621@gmail.com
+
+Explore the AVIVA insurance data, analyze trends, and uncover the stories within the dataset! 📊
 
 
 
