@@ -30,9 +30,7 @@ The dataset provided in the AVIVA R&A MI Excel Test Paper.xlsm and the Power BI 
 
 ## 🧰 Tools Used :
 
-![Picture344](https://github.com/user-attachments/assets/e9dfe810-6af4-496e-a810-38e3f1b4f791)
-
-![Picture588](https://github.com/user-attachments/assets/2b2b405e-0d44-4f70-9839-c6658257ee9d)
+![Picture344](https://github.com/user-attachments/assets/e9dfe810-6af4-496e-a810-38e3f1b4f791)   ![Picture588](https://github.com/user-attachments/assets/2b2b405e-0d44-4f70-9839-c6658257ee9d)
 
 
 
